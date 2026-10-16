@@ -1,5 +1,5 @@
 /*============================================
-            DIGITAL OUTPUT LED
+                 IR_COUNTER
   ============================================
   Description:
     This program counts up once a object is detected
